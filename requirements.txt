@@ -1,3 +1,8 @@
-faicons
+faicons 
+pandas 
+pyarrow 
+plotly 
+scipy
 shiny
-shinylive
+shinylive 
+shinywidgets 
