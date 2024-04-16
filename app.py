@@ -89,7 +89,7 @@ def reactive_calc_combined():
 # Call the ui.page_opts() function
 # Set title to a string in quotes that will appear at the top
 # Set fillable to True to use the whole page width for the UI
-ui.page_opts(title="Temperature monitor", fillable=True)
+ui.page_opts(title="Arsh Kandola Temperature monitor", fillable=True)
 
 with ui.layout_columns():
         with ui.value_box(
